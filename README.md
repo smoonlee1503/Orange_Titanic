@@ -22,6 +22,7 @@ Data Visualization - there are dropdown buttons on the left for user to choose X
 ![image](https://github.com/smoonlee1503/Orange_Titanic/assets/138969951/c42924e6-0d34-4768-8425-091e4d6c601b)
 
 Train-Test-Split - different kind of train-test-split features are available for selection.
+
 ![image](https://github.com/smoonlee1503/Orange_Titanic/assets/138969951/181dbb17-d2e1-475e-a690-49fdde9ac277)
 
 Predictive modeling using 4 different machine learning algorithm include Tree, SVM, Logistic Regression and Naive Bayes.

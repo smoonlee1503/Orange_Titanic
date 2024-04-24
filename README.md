@@ -1,4 +1,4 @@
-# Orange_Titanic
+# Orange Data Mining - Titanic Dataset
 Application of Orange Data Mining using Titanic dataset.
 
 Orange is an open-source data visualization, machine learning, and data mining software suite. It offers a visual programming interface for data analysis and includes a variety of tools for data preprocessing, feature selection, data visualization, and predictive modeling.
